@@ -7,6 +7,11 @@ March, never once been thanked, and has finally had enough.
 
 import os
 
+# Why this line wins: it reads as a cron job's own resignation ("every
+# minute since March"), the complaint is one only a cron job could make,
+# the tone stays flat, tired and faintly passive-aggressive throughout,
+# and the closing line ("Good luck finding the typo yourself") is the
+# comic turn -- no wasted words, nothing explained.
 LINE = "I have run every minute since March without a single thank you. I quit. Good luck finding the typo yourself."
 
 
